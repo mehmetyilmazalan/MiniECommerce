@@ -1,4 +1,4 @@
-package service;
+package com.mehmetyilmazalan.miniecommerce.service;
 
 import com.mehmetyilmazalan.miniecommerce.model.Urun;
 import com.mehmetyilmazalan.miniecommerce.repository.UrunRepository;

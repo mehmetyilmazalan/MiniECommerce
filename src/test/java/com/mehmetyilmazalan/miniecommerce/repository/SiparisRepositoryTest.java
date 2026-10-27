@@ -1,4 +1,4 @@
-package repository;
+package com.mehmetyilmazalan.miniecommerce.repository;
 
 import com.mehmetyilmazalan.miniecommerce.model.Siparis;
 import com.mehmetyilmazalan.miniecommerce.model.SiparisKalemi;

@@ -1,4 +1,4 @@
-package model;
+package com.mehmetyilmazalan.miniecommerce.model;
 
 import com.mehmetyilmazalan.miniecommerce.model.Urun;
 import org.junit.jupiter.api.Test;

@@ -1,4 +1,4 @@
-package model;
+package com.mehmetyilmazalan.miniecommerce.model;
 
 import com.mehmetyilmazalan.miniecommerce.model.Siparis;
 import com.mehmetyilmazalan.miniecommerce.model.SiparisDurumu;

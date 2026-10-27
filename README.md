@@ -26,7 +26,8 @@ Java 17 · Maven · JUnit 5 · Java Collections · BigDecimal
 - `repository`: Bellekte veri saklama
 - `service`: Ürün ve sipariş işlemleri
 - `application`: Konsol arayüzü ve başlangıç sınıfı
-- `test`: JUnit testleri
+- `src/main/java/com/mehmetyilmazalan/miniecommerce`: Uygulama paketleri
+- `src/test/java/com/mehmetyilmazalan/miniecommerce`: JUnit testleri
 
 ## Çalıştırma
 
