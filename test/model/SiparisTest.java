@@ -1,4 +1,4 @@
-package Repository;
+package model;
 
 import com.mehmetyilmazalan.miniecommerce.model.Siparis;
 import com.mehmetyilmazalan.miniecommerce.model.SiparisDurumu;
