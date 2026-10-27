@@ -1,0 +1,12 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Derleme çıktıları
+out/
+target/
+*.class
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
